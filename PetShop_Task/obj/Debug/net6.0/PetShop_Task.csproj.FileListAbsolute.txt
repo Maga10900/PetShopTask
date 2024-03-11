@@ -1,0 +1,14 @@
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\bin\Debug\net6.0\PetShop_Task.exe
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\bin\Debug\net6.0\PetShop_Task.deps.json
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\bin\Debug\net6.0\PetShop_Task.runtimeconfig.json
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\bin\Debug\net6.0\PetShop_Task.dll
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\bin\Debug\net6.0\PetShop_Task.pdb
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\obj\Debug\net6.0\PetShop_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\obj\Debug\net6.0\PetShop_Task.AssemblyInfoInputs.cache
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\obj\Debug\net6.0\PetShop_Task.AssemblyInfo.cs
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\obj\Debug\net6.0\PetShop_Task.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\obj\Debug\net6.0\PetShop_Task.dll
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\obj\Debug\net6.0\refint\PetShop_Task.dll
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\obj\Debug\net6.0\PetShop_Task.pdb
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\obj\Debug\net6.0\PetShop_Task.genruntimeconfig.cache
+C:\Users\Muhammad\source\repos\PetShop_Task\PetShop_Task\obj\Debug\net6.0\ref\PetShop_Task.dll
